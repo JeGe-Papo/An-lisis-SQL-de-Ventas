@@ -1,0 +1,11 @@
+INSERT INTO Productos (ProductoID, Producto, Categoria, Precio) VALUES (1, 'PortÃ¡til Asus', 'TecnologÃ­a', 2500000) ON CONFLICT DO NOTHING;
+INSERT INTO Productos (ProductoID, Producto, Categoria, Precio) VALUES (2, 'Monitor 24"', 'TecnologÃ­a', 800000) ON CONFLICT DO NOTHING;
+INSERT INTO Productos (ProductoID, Producto, Categoria, Precio) VALUES (3, 'Teclado MecÃ¡nico', 'TecnologÃ­a', 250000) ON CONFLICT DO NOTHING;
+INSERT INTO Productos (ProductoID, Producto, Categoria, Precio) VALUES (4, 'Mouse Gamer', 'TecnologÃ­a', 150000) ON CONFLICT DO NOTHING;
+INSERT INTO Productos (ProductoID, Producto, Categoria, Precio) VALUES (5, 'Silla ErgonÃ³mica', 'Oficina', 600000) ON CONFLICT DO NOTHING;
+INSERT INTO Productos (ProductoID, Producto, Categoria, Precio) VALUES (6, 'Escritorio Madera', 'Oficina', 450000) ON CONFLICT DO NOTHING;
+INSERT INTO Productos (ProductoID, Producto, Categoria, Precio) VALUES (7, 'Organizador', 'Oficina', 60000) ON CONFLICT DO NOTHING;
+INSERT INTO Productos (ProductoID, Producto, Categoria, Precio) VALUES (8, 'Archivador Metal', 'Oficina', 350000) ON CONFLICT DO NOTHING;
+INSERT INTO Productos (ProductoID, Producto, Categoria, Precio) VALUES (9, 'Mochila Impermeable', 'Accesorios', 180000) ON CONFLICT DO NOTHING;
+INSERT INTO Productos (ProductoID, Producto, Categoria, Precio) VALUES (10, 'Hub USB-C', 'Accesorios', 120000) ON CONFLICT DO NOTHING;
+INSERT INTO Productos (ProductoID, Producto, Categoria, Precio) VALUES (11, 'Cargador Carga RÃ¡pida', 'Accesorios', 90000) ON CONFLICT DO NOTHING;

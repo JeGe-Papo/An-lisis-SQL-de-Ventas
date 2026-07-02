@@ -1,0 +1,12 @@
+ProductoID,Producto,Categoría,Precio
+1,Portátil Asus,Tecnología,2500000
+2,"Monitor 24""",Tecnología,800000
+3,Teclado Mecánico,Tecnología,250000
+4,Mouse Gamer,Tecnología,150000
+5,Silla Ergonómica,Oficina,600000
+6,Escritorio Madera,Oficina,450000
+7,Organizador,Oficina,60000
+8,Archivador Metal,Oficina,350000
+9,Mochila Impermeable,Accesorios,180000
+10,Hub USB-C,Accesorios,120000
+11,Cargador Carga Rápida,Accesorios,90000

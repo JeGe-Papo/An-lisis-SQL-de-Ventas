@@ -1,0 +1,151 @@
+ClienteID,Nombre,Ciudad,Segmento
+1,Camila Martínez,Barranquilla,Consumidor Final
+2,Juan Gómez,Bogotá,Consumidor Final
+3,Valentina López,Cali,Pyme
+4,Ana Pérez,Cali,Corporativo
+5,Carlos Martínez,Medellín,Pyme
+6,Isabella Vergara,Pasto,Corporativo
+7,Paula Rodríguez,Barranquilla,Consumidor Final
+8,Andrés Martínez,Tumaco,Consumidor Final
+9,Valentina Martínez,Tumaco,Corporativo
+10,Fernando Gómez,Barranquilla,Consumidor Final
+11,Carlos Pérez,Medellín,Consumidor Final
+12,María Martínez,Medellín,Consumidor Final
+13,Sofía Pérez,Tumaco,Consumidor Final
+14,Camila Valencia,Bogotá,Corporativo
+15,Carlos García,Cali,Consumidor Final
+16,Luis Sánchez,Medellín,Corporativo
+17,Juan Pérez,Medellín,Corporativo
+18,María Díaz,Barranquilla,Corporativo
+19,Luis García,Pasto,Pyme
+20,Fernando Valencia,Cali,Consumidor Final
+21,Alejandro Díaz,Medellín,Consumidor Final
+22,Gabriel Pérez,Bogotá,Pyme
+23,Javier López,Tumaco,Consumidor Final
+24,Javier Gómez,Pasto,Pyme
+25,Alejandro Rodríguez,Medellín,Corporativo
+26,Luis García,Bogotá,Corporativo
+27,Luis Díaz,Bogotá,Corporativo
+28,Juan Rodríguez,Medellín,Consumidor Final
+29,Diana Díaz,Cali,Pyme
+30,Laura Díaz,Medellín,Corporativo
+31,María Díaz,Bogotá,Pyme
+32,Luis Martínez,Bogotá,Pyme
+33,Diana Vergara,Pasto,Consumidor Final
+34,Isabella Martínez,Bogotá,Corporativo
+35,Paula Rodríguez,Barranquilla,Corporativo
+36,Andrés Vergara,Cali,Consumidor Final
+37,Javier López,Medellín,Pyme
+38,Ana Sánchez,Barranquilla,Consumidor Final
+39,Fernando Pérez,Cali,Corporativo
+40,Carlos Vergara,Pasto,Pyme
+41,María Pérez,Pasto,Corporativo
+42,Juan Díaz,Medellín,Consumidor Final
+43,Valentina Gómez,Tumaco,Corporativo
+44,Juan Sánchez,Barranquilla,Pyme
+45,Fernando Valencia,Pasto,Pyme
+46,Isabella López,Medellín,Corporativo
+47,Laura Pérez,Tumaco,Consumidor Final
+48,Alejandro Sánchez,Bogotá,Consumidor Final
+49,Valentina Díaz,Medellín,Consumidor Final
+50,Luis García,Medellín,Consumidor Final
+51,Valentina Sánchez,Tumaco,Corporativo
+52,Ana Valencia,Bogotá,Pyme
+53,Carlos Valencia,Bogotá,Corporativo
+54,Juan Vergara,Bogotá,Corporativo
+55,Diana Rodríguez,Cali,Pyme
+56,Laura García,Barranquilla,Pyme
+57,Carlos Valencia,Tumaco,Corporativo
+58,Andrés Valencia,Barranquilla,Corporativo
+59,Juan Pérez,Cali,Corporativo
+60,Valentina Díaz,Pasto,Corporativo
+61,Camila Vergara,Medellín,Corporativo
+62,Camila Sánchez,Medellín,Corporativo
+63,Valentina Valencia,Pasto,Pyme
+64,Camila Gómez,Medellín,Pyme
+65,Diana Valencia,Bogotá,Pyme
+66,Paula Rodríguez,Cali,Consumidor Final
+67,Valentina Rodríguez,Pasto,Corporativo
+68,María López,Pasto,Pyme
+69,Paula Sánchez,Pasto,Corporativo
+70,María Rodríguez,Bogotá,Corporativo
+71,María Vergara,Tumaco,Pyme
+72,Camila Vergara,Medellín,Corporativo
+73,Luis Martínez,Cali,Corporativo
+74,Camila Rodríguez,Bogotá,Pyme
+75,Ana Sánchez,Pasto,Pyme
+76,Andrés Valencia,Bogotá,Consumidor Final
+77,Diego Díaz,Barranquilla,Consumidor Final
+78,Diana Gómez,Cali,Pyme
+79,Javier Pérez,Pasto,Pyme
+80,Diego Rodríguez,Tumaco,Pyme
+81,Andrés Gómez,Tumaco,Corporativo
+82,Diana Vergara,Medellín,Pyme
+83,Alejandro Sánchez,Pasto,Consumidor Final
+84,Camila Gómez,Bogotá,Pyme
+85,Gabriel Rodríguez,Tumaco,Pyme
+86,Isabella Pérez,Tumaco,Pyme
+87,Ana Pérez,Barranquilla,Pyme
+88,Diego Gómez,Tumaco,Pyme
+89,Valentina Vergara,Pasto,Pyme
+90,Fernando Díaz,Barranquilla,Consumidor Final
+91,Valentina Rodríguez,Pasto,Consumidor Final
+92,María Sánchez,Cali,Pyme
+93,Andrés Martínez,Medellín,Corporativo
+94,Camila Díaz,Barranquilla,Pyme
+95,Andrés Díaz,Cali,Consumidor Final
+96,Valentina Vergara,Pasto,Corporativo
+97,Sofía Díaz,Medellín,Corporativo
+98,Sofía Valencia,Tumaco,Consumidor Final
+99,Valentina Gómez,Tumaco,Corporativo
+100,Alejandro Díaz,Cali,Pyme
+101,Ana García,Bogotá,Consumidor Final
+102,Carlos Vergara,Bogotá,Consumidor Final
+103,Alejandro Díaz,Medellín,Consumidor Final
+104,Isabella Pérez,Pasto,Consumidor Final
+105,Gabriel López,Tumaco,Corporativo
+106,Isabella Sánchez,Medellín,Consumidor Final
+107,Laura Pérez,Medellín,Corporativo
+108,Paula Sánchez,Bogotá,Corporativo
+109,Alejandro Rodríguez,Cali,Consumidor Final
+110,Andrés Sánchez,Tumaco,Consumidor Final
+111,Diego López,Medellín,Consumidor Final
+112,Javier Martínez,Cali,Consumidor Final
+113,Laura Rodríguez,Tumaco,Corporativo
+114,María García,Pasto,Consumidor Final
+115,Sofía Vergara,Barranquilla,Pyme
+116,Camila Gómez,Pasto,Consumidor Final
+117,Sofía Díaz,Barranquilla,Corporativo
+118,Laura Pérez,Pasto,Consumidor Final
+119,Fernando López,Medellín,Corporativo
+120,Alejandro Sánchez,Pasto,Consumidor Final
+121,Valentina García,Medellín,Pyme
+122,Javier Martínez,Bogotá,Corporativo
+123,Valentina Vergara,Cali,Pyme
+124,Luis García,Pasto,Pyme
+125,Carlos Vergara,Cali,Corporativo
+126,Ana Vergara,Pasto,Corporativo
+127,Diana Sánchez,Cali,Consumidor Final
+128,Alejandro Valencia,Barranquilla,Corporativo
+129,Laura Sánchez,Medellín,Corporativo
+130,Sofía Vergara,Cali,Consumidor Final
+131,Gabriel García,Bogotá,Corporativo
+132,Isabella Pérez,Pasto,Pyme
+133,Isabella Gómez,Medellín,Consumidor Final
+134,Paula Rodríguez,Pasto,Consumidor Final
+135,Alejandro García,Medellín,Consumidor Final
+136,Javier Vergara,Barranquilla,Pyme
+137,Juan Valencia,Bogotá,Corporativo
+138,Ana Valencia,Medellín,Corporativo
+139,Isabella Gómez,Pasto,Pyme
+140,Luis Pérez,Medellín,Pyme
+141,Javier Rodríguez,Barranquilla,Corporativo
+142,Juan Rodríguez,Barranquilla,Corporativo
+143,Andrés Gómez,Pasto,Corporativo
+144,Alejandro Pérez,Tumaco,Consumidor Final
+145,Andrés Sánchez,Tumaco,Pyme
+146,Diana Martínez,Cali,Pyme
+147,Diego Pérez,Bogotá,Pyme
+148,Luis Vergara,Bogotá,Corporativo
+149,Carlos Rodríguez,Cali,Consumidor Final
+150,Sofía Gómez,Tumaco,Corporativo
